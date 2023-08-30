@@ -1,0 +1,18 @@
+*{
+    font-family: Verdana, Tahoma, sans-serif, Helvetica, sans-serif;
+}
+a{
+    text-decoration: none;
+    font-weight: 900;
+    color:rgb(226, 123, 49);
+}
+h1,h4,h2{
+    background-color: #47FFA9;
+    padding-left: 10px;
+    
+}
+img{
+    display: inline;
+    height: auto;
+    width: 300px;
+}
