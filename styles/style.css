@@ -1,18 +1,41 @@
 *{
     font-family: Verdana, Tahoma, sans-serif, Helvetica, sans-serif;
+    box-sizing: border-box;
 }
-a{
+a h3{
+    display: inline-block;
+    margin:10px;
     text-decoration: none;
+    font-size: 24px;
     font-weight: 900;
     color:rgb(226, 123, 49);
 }
 h1,h4,h2{
-    background-color: #47FFA9;
-    padding-left: 10px;
-    
+    background-color: #4df2a5;
+    padding: 10px;
+    margin:10px;
 }
 img{
     display: inline;
     height: auto;
     width: 300px;
+    padding:10PX;
+}
+.Tips{
+    margin-left:20px;
+}
+.recipieCard{
+    margin: 10px;
+    width:700px;
+    display: flex;
+    background-color: #4df2a5;
+}
+.hero{
+    display:flex ;
+    padding: 10px;
+    background-color: #4df2a5;
+    margin: 10px;
+}
+.steps{
+    width: 900px;
 }
